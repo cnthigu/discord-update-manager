@@ -1,4 +1,4 @@
-# Discord Bot Update - Sistema de Gerenciamento de Atualizações
+# Sistema de Gerenciamento de Atualizações
 
 ## Visão Geral
 
@@ -151,8 +151,7 @@ Changelog:
 ```
 
 ### Arquivos de Configuração
-- **`appsettings.example.json`** - Arquivo de exemplo (commitado)
-- **`appsettings.json`** - Suas configurações reais (não commitado)
+- **`appsettings.example.json`** - Arquivo de exemplo
 - **`Constants/DiscordConstants.cs`** - IDs de canais e servidor
 
 ## Extensibilidade
