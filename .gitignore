@@ -1,0 +1,56 @@
+﻿# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pastas de build
+/bin/
+/obj/
+/build/
+/dist/
+
+# Arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivos do Node.js
+node_modules/
+npm-debug.log
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# Arquivos do Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Arquivos do IDE
+.idea/
+*.iml
+
+# Arquivos de configuração sensíveis (exemplo)
+.env.local
+.env.*.local
+
+# Arquivos de configuração do Discord (PROTEÇÃO DE SEGURANÇA)
+appsettings.json
+appsettings.Development.json
+versions.json
+
+# Outros arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
