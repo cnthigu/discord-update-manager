@@ -4,6 +4,10 @@
 
 Sistema automatizado para gerenciar e distribuir atualizações de software para múltiplos clientes através do Discord. Desenvolvido para resolver o desafio de padronizar e centralizar o processo de comunicação de patches, melhorando a eficiência da equipe de desenvolvimento e garantindo consistência na comunicação com stakeholders.
 
+## Demonstração
+
+**Vídeo de Demonstração:** [Assistir no YouTube](https://www.youtube.com/watch?v=Eu7A4wJvxnw&ab_channel=HigorVinicius)
+
 ## Problema Resolvido
 
 ### Desafio Original
