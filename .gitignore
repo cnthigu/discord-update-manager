@@ -44,11 +44,6 @@ target/
 .env.local
 .env.*.local
 
-# Arquivos de configuração do Discord (PROTEÇÃO DE SEGURANÇA)
-appsettings.json
-appsettings.Development.json
-versions.json
-
 # Outros arquivos temporários
 *.tmp
 *.temp

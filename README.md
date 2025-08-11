@@ -127,9 +127,10 @@ Changelog:
 
 ### Configuração Rápida
 1. Clone o repositório
-2. Configure `appsettings.json` com suas credenciais
-3. Ajuste IDs de canais em `Constants/DiscordConstants.cs`
-4. Execute `dotnet run`
+2. Copie `appsettings.example.json` para `appsettings.json`
+3. Configure suas credenciais no `appsettings.json`
+4. Ajuste IDs de canais em `Constants/DiscordConstants.cs`
+5. Execute `dotnet run`
 
 ### Estrutura de Configuração
 ```json
@@ -144,6 +145,11 @@ Changelog:
   }
 }
 ```
+
+### Arquivos de Configuração
+- **`appsettings.example.json`** - Arquivo de exemplo (commitado)
+- **`appsettings.json`** - Suas configurações reais (não commitado)
+- **`Constants/DiscordConstants.cs`** - IDs de canais e servidor
 
 ## Extensibilidade
 
